@@ -16,6 +16,7 @@ public class Empleado {
     private String puesto;
     private String grupoSanguineo;
     private String direccion;
+    private String prueba;
 
     public Empleado(String nombre, String apellido, Date fechaDeNacimiento, String telefono, int legajo,
                     Date fechaDeIngreso, String fotografia, String genero, String estadoCivil, String area,

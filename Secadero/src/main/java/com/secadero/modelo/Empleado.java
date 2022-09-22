@@ -18,6 +18,7 @@ public class Empleado {
     private String direccion;
     private String prueba;
     private String otraPrueba;
+    private int contar;
 
     public Empleado(String nombre, String apellido, Date fechaDeNacimiento, String telefono, int legajo,
                     Date fechaDeIngreso, String fotografia, String genero, String estadoCivil, String area,
